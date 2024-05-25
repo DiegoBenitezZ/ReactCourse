@@ -5,7 +5,7 @@ class Student extends React.Component {
 
     render() {
         return (
-            <div className='col-4 p-1'>
+            <div className='col-12 col-md-6 p-1'>
                 <div className='row border'>
                     <div className='col-2'>
                         <img src={faker.image.avatar()}
