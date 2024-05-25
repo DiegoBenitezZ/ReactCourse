@@ -1,4 +1,4 @@
-import logo from '../img/react.png'
+import logo from '../../img/react.png'
 
 const Header = () => {
     return (
