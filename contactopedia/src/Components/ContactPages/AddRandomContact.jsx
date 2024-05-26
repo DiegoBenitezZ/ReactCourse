@@ -1,9 +1,9 @@
-const RemoveAllContact = () => {
+const AddRandomContact = () => {
     return (
         <button className="btn btn-danger form-control">
-            Remove All
+            Add Random Contact
         </button>
     );
 };
 
-export default RemoveAllContact;
+export default AddRandomContact;

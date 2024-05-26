@@ -1,9 +1,9 @@
-const Contact = () => {
+const FavoriteContacts = () => {
     return (
         <button className="btn btn-secondary form-control">
-        Contact
+            Favorite Contact
         </button>
     );
 };
 
-export default Contact;
+export default FavoriteContacts;
